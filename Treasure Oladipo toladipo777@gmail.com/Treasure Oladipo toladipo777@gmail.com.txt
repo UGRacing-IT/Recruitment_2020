@@ -1,0 +1,19 @@
+Form_id: 163
+Form_date: 2020-09-07 21:13:31
+Status: unread
+Name: Treasure Oladipo
+Email: toladipo777@gmail.com
+Phone-number: 07951103550
+Matriculation-number: 2546828
+Degree-subject: Mechanical Engineering with Aeronautics
+Degree-type: 4
+Study-year: BEng
+GPA: nan
+Option-1:  Chassis
+Option-2: Aerodynamics
+Experience:  I took part in robotics workshops hosted by the National Saturday Club, where I had the amazing opportunity to design, research and build a robot with my team under a budget of £100. Prior to this, I took product design as a GCSE. Here I worked with a wide range of tools and materials, such as acrylic and MDF whilst learn about suitable composite materials to use when developing a project for a specified target market.
+Why-join:  My career aim is to either work for Rolls Royce or Formula 1 and I believe that being a part of the UGRacing team will be a crucial step towards my goal. Not only will UGRacing help me with my future aspirations, but I am positive that I will also grow my interpersonal skills and further develop my time management.
+Helpful-application:  My drive and ambition has always led me to achieving a desired outcome. With my time spent on the UGRacing team I will be able to put all of my skills to test in an environment that mimics a possible future. So I can both gain from UGRacing and give to the team.
+Interview-times:  From the Monday 14th
+Hear-about:  University Engineering Talk
+Applied-before:  No
