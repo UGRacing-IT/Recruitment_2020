@@ -41,6 +41,12 @@ for qty, id, desc in records:
     row_cells[1].text = id
     row_cells[2].text = desc
 
+
+table = document.add_table(rows = 13, cols = 5)
+table.style = 'Table Grid'
+row = table.rows[0]
+#row.cells[0].text = ('text').bold
+
 document.add_page_break()
 
 document.save('demo.docx')
