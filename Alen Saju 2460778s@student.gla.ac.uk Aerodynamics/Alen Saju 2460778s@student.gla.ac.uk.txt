@@ -1,0 +1,22 @@
+Form_id: 192
+Form_date: 11/09/2020 21:04
+Status: unread
+Name: Alen Saju
+Email: 2460778s@student.gla.ac.uk
+Phone-number: 7375402968
+Matriculation-number: 2460778S
+Degree-subject: Aeronautical Engineering
+Degree-type: 2
+Study-year: BEng
+GPA: 16.0
+Option-1:  Aerodynamics
+Option-2: Vehicle Dynamics
+Experience:  As a student of Aeronautical Engineering, I have an understanding and passion for aerodynamics and vehicle dynamics, which will give me a basic understanding of aspects related to airflow and design.  Furthermore, my roles in several societies and job as a support colleague at Dixons Carphone has developed leadership skills, and ability to work within a team.  These experiences make me a good candidate for this position, as I will ensure the work is done to a high standard in a timely manner.
+Why-join:  My interest in racing started in my first year, as I have always been curious about motorsport. I started watching such events during lockdown, and this sparked a desire to help build a formula one car. I believe that UGR will allow me to learn more within this niche field, gain experience, and be part of a team which aims to build a Formula Student car. I'm very excited at the prospect of joining in order to meet like minded individuals, and learn more about the process of building a FS Car.
+Helpful-application:  I speak Malayalam.
+
+
+Interview-times:  Monday, Wednesday to Friday after 5 pm
+Tuesday any time.
+Hear-about:  Website
+Applied-before:  Yes

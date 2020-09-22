@@ -1,0 +1,19 @@
+Form_id: 254
+Form_date: 20/09/2020 15:21
+Status: unread
+Name: Rohaan Sohaib
+Email: r.sohaib2002@gmail.com
+Phone-number: 7401030311
+Matriculation-number: 2567186
+Degree-subject: Aeronautical Engineering
+Degree-type: 1
+Study-year: MEng
+GPA: nan
+Option-1:  Aerodynamics
+Option-2: Vehicle Dynamics
+Experience:  No.
+Why-join:  I believe that it will be a great opportunity to develop myself in a professional environment. I am starting my aeronautical engineering course and I will learn many things from it that enable me to help on the team. I also have a passion in learning about how machines function and helping create beautiful machines, I have used youtube many times to scope out how certain systems work, such as F1 Vehicles. This is a great opportunity to help me get a job after my degree but also a learning curve.
+Helpful-application:  I feel that I can communicate well with others, perhaps get along quite well with the team and fit right in. I see this as the perfect opportunity not just in terms of learning or landing a job but working on a project with potential friends for life. 
+Interview-times:  After 4pm everyday.
+Hear-about:  Through the university website.
+Applied-before:  No

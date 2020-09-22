@@ -1,0 +1,19 @@
+Form_id: 164
+Form_date: 07/09/2020 22:56
+Status: unread
+Name: Iain Stewart
+Email: tkd1703@yahoo.co.uk
+Phone-number: 7982628672
+Matriculation-number: 2388717S
+Degree-subject: Aeronautical Engineering
+Degree-type: 3
+Study-year: BEng
+GPA: 21.5
+Option-1:  Aerodynamics
+Option-2: Vehicle Dynamics
+Experience:  I have had experience working in CAD and basic CFD throughout highschool, university, and free time, including creating the entire CAD model (with functionality) for rocket launch system for 2nd year team project. I have began my Private Pilot's License with hours in the air, learning necessary aerodynamic principles that bolstered my knowledge when studying advanced theory during uni course. I'm also currently undertaking a turbo-conversion on my NA car doing almost the entire project myself.
+Why-join:  I want to use my knowledge and experience in a practical application so I can learn more in a realistic setting, being part of a team that builds a Formula Student car from the ground up is the perfect opportunity for just that. Know a fair few people on the team, including last year's Head of Manufacturing (Callum Wilson) so I have had a small insight into the ongoings of the team, and how development runs. 
+Helpful-application:  Tall enough to reach the top shelf in the workshop, can use a torque wrench, also know that lefty-loosy and righty-tighty
+Interview-times:  Mornings during the week, or afternoons during weekends. Working Thursday - Sunday until uni starts back
+Hear-about:  Through friends in team
+Applied-before:  No

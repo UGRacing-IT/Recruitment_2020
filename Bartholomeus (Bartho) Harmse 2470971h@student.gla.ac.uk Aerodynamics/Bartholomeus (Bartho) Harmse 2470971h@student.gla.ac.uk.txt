@@ -1,0 +1,19 @@
+Form_id: 162
+Form_date: 07/09/2020 20:46
+Status: read
+Name: Bartholomeus (Bartho) Harmse
+Email: 2470971h@student.gla.ac.uk
+Phone-number: 7878779676
+Matriculation-number: 2470971
+Degree-subject: Aerospace Systems Eng
+Degree-type: 3
+Study-year: Bachelors of Engineering
+GPA: nan
+Option-1:  Aerodynamics
+Option-2: Unsprung Mass
+Experience:  I have extensive technical and mechanical knowledge regarding automobiles. My most proficient skills are engine building (gasoline), suspension/drive-train repair and modification, electrical wiring, and recently metal fabrication (welding and forming).  I also have a very good understanding of aerodynamics and the essential role they play, acquired mostly through my pilot's training, but also now my degree path. I am also proficient enough in Solidworks  to model these understandings.
+Why-join:  I have a immense passion for working on automobiles. Being away from home I would like to continue living my passion and UGR can provide me that opportunity. It will also be a good opportunity  for me to learn new technologies outside my current field of knowledge, expand my current field of expertise, whilst also building teamwork skills and management strategies -all valuable being assets in the industry of my current aerospace career path, as well as in my workshop back home.
+Helpful-application:  I've acquired these skills and experience by restoring classic and vintage cars throughout high school. Since then I've started a private workshop where I do this semi-professionally to help fund my studies here overseas as well as my other hobbies, this has also taught me valuable management skills. I have recently created a youtube channel - 'Namib Automotive' - where I feature some of my work, it can serve as an extension of my portfolio (included in my CV) if required.
+Interview-times:  Still stuck in my home country, hopefully middle of October.
+Hear-about:  My brother used to be part of UGR (Martin Harmse), and one of my classmates (Callum Wilson I believe) is on the team.
+Applied-before:  No

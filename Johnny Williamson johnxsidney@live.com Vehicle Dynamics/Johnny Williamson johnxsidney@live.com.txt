@@ -1,0 +1,19 @@
+Form_id: 217
+Form_date: 16/09/2020 17:15
+Status: read
+Name: Johnny Williamson
+Email: johnxsidney@live.com
+Phone-number: 7484227731
+Matriculation-number: 2564469W
+Degree-subject: Product Design Engineering
+Degree-type: 1
+Study-year: Engineering
+GPA: nan
+Option-1:  Vehicle Dynamics
+Option-2: Aerodynamics
+Experience:  I have no practical knowledge of dynamics and aerodynamics other than what `I have been taught at A-level physics. But as an engineering student I would say that I can absorb information very fast and learn the most important concepts required. Furthermore, I also studied Design at A-level, so I have experience in modelling, testing and iterative design.
+Why-join:  I would love to be part of the UGRacing team because I am a team player with a competitive spirit, and I want to further my knowledge of mechanics. I wish to become a product designer who has the knowledge and skillset of a mechanical engineer, bridging a gap between the two disciplines which gets smaller and smaller as technology and teaching advance.
+Helpful-application:  In secondary school, I was a sports leader, which involved organising sports events for younger children. This taught me the importance of clear and concise communication, which is vital in a team such as UGRacing.
+Interview-times:  Anytime on the weekend, or evenings on weekdays.
+Hear-about:  Freshers fair
+Applied-before:  No

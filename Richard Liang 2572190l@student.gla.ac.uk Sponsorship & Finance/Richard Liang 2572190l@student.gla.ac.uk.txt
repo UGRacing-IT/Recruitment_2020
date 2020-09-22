@@ -1,0 +1,21 @@
+Form_id: 172
+Form_date: 08/09/2020 15:00
+Status: read
+Name: Richard Liang
+Email: 2572190l@student.gla.ac.uk
+Phone-number: 7706604828
+Matriculation-number: 2572190
+Degree-subject: Business & Management 
+Degree-type: 2
+Study-year: MA (Hons)
+GPA: nan
+Option-1:  Sponsorship & Finance
+Option-2: HR & Logistics
+Experience:  Unfortunately I do not have any experience. 
+Why-join:  I am a fan of racing and think this will be a great opportunity for me to not only better understand the inner runnings of a racing team but also learn important skills that will help me in my future careers. 
+
+Helpful-application:  I spent 2 years serving in the Republic of Singapore Air Force as a flight technician. My job involved maintaining F16D+ fighter jets. As I am a business student, I am applying for more business-oriented roles. However, I am more than willing to get my hands dirty and help out on the engineering side should they require assistance. 
+
+Interview-times:  During school term: Mondays, Wednesdays and weekends. 
+Hear-about:  I found out about this myself while exploring the clubs in Glasgow University.
+Applied-before:  No

@@ -1,0 +1,19 @@
+Form_id: 283
+Form_date: 21/09/2020 22:38
+Status: unread
+Name: James Patterson
+Email: james.patt@live.com
+Phone-number: 7425136104
+Matriculation-number: 2254138P
+Degree-subject: Aeronautical Engineering
+Degree-type: 4
+Study-year: MEng
+GPA: 18.94
+Option-1:  Aerodynamics
+Option-2: Chassis
+Experience:  After high school, I chose to defer my entry into University to gain further useful industrial experience. I secured a placement at UTC Aerospace Systems (now Collins Aerospace) in Plymouth as a Student Engineer. This year-long role included carrying out development testing, working with suppliers and leading a yearlong project to produce a sales demonstration programme using LabVIEW. I also worked within different departments including the mechanical engineering team.
+Why-join:  As a racing fan, I have always been fascinated by the constant push for technological advancement to provide that competitive edge.  Joining UGRacing gives an insight into the world of competitive engineering while satisfying my engineering hunger and competitive nature. Joining UGRacing is an exciting prospect which not only increases my understanding of the processes behind race teams and their engineering, but allows me to improve as an engineer through exposure to new and modern techniques.
+Helpful-application:  I have been part of the University Royal Naval Unit, in which training nights were heavily emphasised on building leadership skills and working in teams in a high-pressure environment. These skills are highly transferable and have aided my university career. I am in the university tennis team, playing BUCS on Wednesdays and I am the new Fundraising & Outreach convenor for GUSA. Furthermore, I secured a summer internship with BAE Systems, however this was postponed to next summer.
+Interview-times:  Anytime.
+Hear-about:  Through other engineers who have been part of UGRacing
+Applied-before:  No

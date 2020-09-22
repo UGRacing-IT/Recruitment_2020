@@ -1,0 +1,32 @@
+Form_id: 212
+Form_date: 16/09/2020 15:45
+Status: unread
+Name: Angela Weihan Ng
+Email: 2485186N@student.gla.ac.uk
+Phone-number: +44 0 7842 810051
+Matriculation-number: 2485186N
+Degree-subject: MA Computing Science and Music
+Degree-type: 2
+Study-year: Undergraduate
+GPA: 21.0
+Option-1:  IT
+Option-2: Marketing & Media
+Experience:  IT-related
+- programmed EV3 robots to carry out simple tasks such as returning objects to containers based on colours
+- Involved in the coding and implementation of circubox.org
+- coded and implemented personal website angelangweihan.netlify.app
+- Former Intern at Defence Science Org. National Labs. (Singapore)
+- Shopee Code League 18th in world for translation challenge
+
+Marketing & Media
+- Business development Intern at Praxium
+- formerly in publicity department of Circubox
+Why-join:  I hope to join UGRacing to not only see the fruition of driverless vehicles, but also experience the process of putting academic knowledge into a real-life project with an ambitious end goal. Most certainly, as a second year student, I hope to learn valuable skillsets from my fellow UOG students who may have more experience than I do. Being an Arts-Science student has often taught me to look at problems from a different angle and I hope to contribute different perspectives to the team.
+Helpful-application:  Prior technological experiences:
+- Eunoia Junior College (Singapore) Computing and Robotics Club
+- Eunoia Python and Machine Learning Circle
+- DSO National Labs intern
+- Chief Technology Officer of Circubox
+Interview-times:  #NAME?
+Hear-about:  Computing Science Discord
+Applied-before:  No

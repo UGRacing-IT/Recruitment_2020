@@ -1,0 +1,19 @@
+Form_id: 201
+Form_date: 14/09/2020 10:46
+Status: read
+Name: Tom Harley
+Email: 2295133H@student.gla.ac.uk
+Phone-number: 7870588433
+Matriculation-number: 2295133H
+Degree-subject: Medicine
+Degree-type: 4
+Study-year: MBChB
+GPA: nan
+Option-1:  HR & Logistics
+Option-2: Sponsorship & Finance
+Experience:  I took on the role of secretary for my year club a couple of years ago and was responsible for liaising with companies, venues, the SRC and students to organise events throughout the year and the end of year ball. This role required me to be highly organised and adaptive, with many plans changing up until the last minute. Studying medicine has also helped me to develop good interpersonal and communication skills, and has also allowed me to hone my problem-solving skills. 
+Why-join:  I think this sounds like an amazing project on a scale that I didn't even know was possible while at university. The idea of being involved in a team that builds and races a car at Silverstone just sounds incredible. I think this experience would really challenge my organisational abilities and give me the experience of working in a team much larger, with a much bigger project, than anything I've done before. 
+Helpful-application:  I'm a very committed individual and will work hard to complete projects. For example, I learned keyboard for many years and achieved my grade 8. I've also got good experience working in a team, volunteering for the cub scouts and the street pastors. The latter involves me heading out onto the streets in the early hours of the morning to help the homeless and people coming out of clubs who are very drunk, which shows I'm not afraid to put myself in uncomfortable and challenging situations. 
+Interview-times:  Whenever, really. I'm currently on a rotation where most of my work is from home so I am available for an interview practically anytime. From October 5th I am starting a placement full time in hospital so I may be less available, but should hopefully still be quite flexible.
+Hear-about:  Email
+Applied-before:  No

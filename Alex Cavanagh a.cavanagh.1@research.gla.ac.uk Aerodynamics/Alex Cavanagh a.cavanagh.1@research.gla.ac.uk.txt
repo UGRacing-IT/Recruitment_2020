@@ -1,0 +1,19 @@
+Form_id: 224
+Form_date: 17/09/2020 15:54
+Status: unread
+Name: Alex Cavanagh
+Email: a.cavanagh.1@research.gla.ac.uk
+Phone-number: 7495487872
+Matriculation-number: 2603180
+Degree-subject: PhD in Aerospace Engineering (Research)
+Degree-type: 1
+Study-year: Doctor of Philosophy
+GPA: nan
+Option-1:  Aerodynamics
+Option-2: Aerodynamics
+Experience:  I have considerable experience performing complex CFD simulations and subsequent analysis on a model F1 car as part of my Master's project on F1 aerodynamics. I also have a strong knowledge of meshing requirements and underlying fluid theory. I have experience conducting wind tunnel experimentation on a model Shell Eco marathon car, and experience with LabVIEW. I also have experience designing complex CAD models using SolidWorks.
+Why-join:  It is my passion and desire to work in Formula One as an aerodynamicist. I greatly enjoy work and research within the aerospace sector, and this will provide an invaluable opportunity to get first-hand experience of what it is like to work in a racing team. I expect to further develop my excellent existing teamworking skills and technical knowledge, as well as providing guidance to other members of the team. I would like to develop management skills as head of the aerodynamics subteam in future.
+Helpful-application:  With my experience of having completed my MEng in Mechanical Engineering already, I would be willing and would enjoy helping other members of the team who might be less experienced. I am competent and confident at delivering both verbal and written technical communication. As a PhD student, I have access to the Linux workstation Turing at Glasgow Uni, and experience with submitting complex CFD jobs to remote servers.
+Interview-times:  Monday to Friday 12-5pm
+Hear-about:  Social Media (Instagram)
+Applied-before:  No

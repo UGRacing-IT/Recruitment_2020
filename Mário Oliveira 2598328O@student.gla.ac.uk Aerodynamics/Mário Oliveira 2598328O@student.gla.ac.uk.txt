@@ -1,0 +1,19 @@
+Form_id: 279
+Form_date: 21/09/2020 19:40
+Status: unread
+Name: Mário Oliveira
+Email: 2598328O@student.gla.ac.uk
+Phone-number: 3.52E+11
+Matriculation-number: 2598328
+Degree-subject: Mechanical Engineering
+Degree-type: 4
+Study-year: Mechanical Engineering
+GPA: 12.6
+Option-1:  Aerodynamics
+Option-2: Vehicle Dynamics
+Experience:  I don't have any experience in anything!
+Why-join:  I am an Erasmus+ student from Porto (Portugal), I am studying Mechanical Engineering, I am in my 4th year of studies and in Porto my degree is only Theoretical, there is no practise and I wanted to apply what I have learned. Additionaly, I have a passion for cars and I wanted to put myself out of the confort zone. I dream of one day of working in an automotive company.
+Helpful-application:  It is not in my CV but I have been a teacher at a school of robotics for a year.
+Interview-times:  Everyday
+Hear-about:  Received your e-mail
+Applied-before:  No

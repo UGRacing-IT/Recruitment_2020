@@ -1,0 +1,19 @@
+Form_id: 248
+Form_date: 19/09/2020 19:59
+Status: unread
+Name: Ronen Raduzky
+Email: rraduzky@gmail.com
+Phone-number: 7397077846
+Matriculation-number: 2520677
+Degree-subject: Medicine
+Degree-type: 1
+Study-year: Bachelor
+GPA: nan
+Option-1:  IT
+Option-2: Marketing & Media
+Experience:  I have a year and a half of experience using digital graphic design software such as Illustrator, Photoshop, etc. for the creation of promotional and advertising material for our small family run business. In addition, I have successfully completed some courses over this lockdown on the development of modern web application i.e. websites. and have good basic knowledge of progressive web programming languages and frameworks such as TypeScript and VueJS.
+Why-join:  UGRacing would be a fantastic opportunity to mix in with students from other faculties and be involved in an activity unrelated to my degree, but instead to one of my interests i.e. engineering. I have always been intrigued by the inner workings of anything that moved and have always been keen to build things DIY style. It is my hope that I can learn a lot from the team while contributing to its overall outreach on the internet and supporting it technologically in its goal to win the race.
+Helpful-application:  I can speak fluent English, Chinese and Russian. Looking to learn German and Arabic. I have volunteered as a first aider with the British Red Cross and St Andrew's First Aid. Love to read sci-fi novels. My hobbies are anything that makes the cogs in my brain turn. I love to be challenged and a bit of competition is always fun. I also enjoy camping and outings in the wild when the weather and mood are right.
+Interview-times:  I am free every Wednesday and weekends.
+Hear-about:  Freshers' Fayre
+Applied-before:  No

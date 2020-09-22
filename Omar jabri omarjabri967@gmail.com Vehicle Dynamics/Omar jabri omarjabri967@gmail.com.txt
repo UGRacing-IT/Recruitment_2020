@@ -1,0 +1,20 @@
+Form_id: 286
+Form_date: 22/09/2020 01:19
+Status: unread
+Name: Omar jabri
+Email: omarjabri967@gmail.com
+Phone-number: +44 7926 754605
+Matriculation-number: 2519359J
+Degree-subject: Robotics and AI
+Degree-type: 1
+Study-year: Postgraduate taught
+GPA: nan
+Option-1:  Vehicle Dynamics
+Option-2: IT
+Experience:  Yes I have a bachelor’s degree in computer science and I am studying now my master’s in Robotics and AI which grows my knowledge in automated systems and engineering fields.
+Why-join:  I want to indulge in a team collaborative experience, brainstorm with my peers into creating the best racing car there is. I want to practice my problem solving and critical thinking skills, explore the world of vehicle engineering and expand my knowledge in that experience. The latter is going to enrich me with the ability to develop complex system with organisation and creativity.
+Helpful-application:  Dear Sir/Madam
+My name is Omar Jabri and I hold a bachelor’s degree in Arts and Sciences, majoring in Computer Science at the Lebanese American University. I started working as a research assistant with an emphasis on Internet of Things at the University. As an undergraduate research assistant, I am aiming on preparing myself for future research work and projects. In addition to my research work and university courses, I have indulged myself in extracurricular work especially in the field of AI
+Interview-times:  I am free from tomorrow onwards.
+Hear-about:  Instagram
+Applied-before:  Yes

@@ -1,0 +1,23 @@
+Form_id: 204
+Form_date: 14/09/2020 20:41
+Status: read
+Name: Ameerah Gardee
+Email: 2364306G@student.gla.ac.uk
+Phone-number: 7938245224
+Matriculation-number: 2364306
+Degree-subject: Neuroscience
+Degree-type: 2
+Study-year: BSc
+GPA: nan
+Option-1:  Chassis
+Option-2: Marketing & Media
+Experience:  I am doing degree in neuroscience, with a view to graduate entry medicine and a career in neurosurgery. As such, the chassis department appeals to me, as I am keenly interested in the possibilities of making the driver environment as safe and effective as possible when it comes to supporting the spine, posture and, in the event of a crash, protect against serious head injury. 
+
+I am a social media manager for two instagram based start-ups, so am familiar with the platform and content creation.
+Why-join:  It looks like an exciting opportunity to be part of something I had not anticipated when I joined the university. I hope to hone teamwork and communication skills as well as take the opportunity to be creative in an impactful way. I believe this is a great learning opportunity and a chance to experience being part of a multidisciplinary team that will stand me in good stead for my future career.
+Helpful-application:  I was homeschooled prior to coming to university, so am self-motivated and determined when it comes to meeting my targets. I can think outside the box and am experienced when it comes to problem-solving, trouble-shooting and time management. 
+
+I read widely, which I believe gives me a far greater scope of what can be possible with the right approach, teamwork and mindset.
+Interview-times:  I am available in the afternoons Tuesday-Thursday between 13:00-14:00 each week. Weekends are variable and would depend on the exact date.
+Hear-about:  Moodle
+Applied-before:  No

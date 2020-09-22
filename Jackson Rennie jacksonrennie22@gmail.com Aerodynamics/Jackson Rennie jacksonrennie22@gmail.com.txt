@@ -1,0 +1,19 @@
+Form_id: 259
+Form_date: 21/09/2020 13:36
+Status: unread
+Name: Jackson Rennie
+Email: jacksonrennie22@gmail.com
+Phone-number: 7380857729
+Matriculation-number: 2560805R
+Degree-subject: Aeronautical Engineering
+Degree-type: 1
+Study-year: MEng
+GPA: nan
+Option-1:  Aerodynamics
+Option-2: Chassis
+Experience:  I have studied Maths, Physics and Graphics throughout high school, so I have a deep understanding of aerodynamics, the forces that affect cars and lots of experience using various CAD softwares-including the design and testing of vehicles using finite element analysis. Also, I was the top performing student at my school in Physics and Graphics. I also have followed Formula 1 for years and performed my own private study on how the cars are able to minimise drag and maximise downforce.
+Why-join:  I wish to join UGRacing as I have a strong passion for motorsport and I aspire to work in Formula One at the end of my degree. I have always been fascinated by high-speed cars and I believe UGRacing would offer me a great opportunity to gain experience in the field. I would love to be a part of a team working together to achieve a common goal, and I hope to make friends who have similar interests as me. UGR would allow me to combine my enthusiasm for motorsport and my knowledge of aerodynamics.
+Helpful-application:  I believe my determination and enthusiasm would be a great addition to UGRacing. I am constantly looking to learn and improve, so being a part of a team that is always aspiring to upgrade the capabilities of the car and the efficiency of development would be an environment I would thrive in. I was Head Boy at my High School, so I have developed many organisational and leadership skills, meaning I am confident in taking initiative and presenting my ideas to the team.                              
+Interview-times:  I am available after 3pm Monday-Wednesday and after 2pm Thursday-Sunday
+Hear-about:  University of Glasgow Website
+Applied-before:  No

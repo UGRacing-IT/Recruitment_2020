@@ -1,0 +1,23 @@
+Form_id: 165
+Form_date: 08/09/2020 09:18
+Status: unread
+Name: Ashvin Selvakannan
+Email: 2572906s@student.gla.ac.uk
+Phone-number: +91 8073233547
+Matriculation-number: 2572906s
+Degree-subject: Mechanical Engineering
+Degree-type: 1
+Study-year: Bachelors of Engineering (BEng)
+GPA: nan
+Option-1:  Aerodynamics
+Option-2: Vehicle Dynamics
+Experience:  During high school, I had taken engineering courses in rotational dynamics, fluid dynamics and thermodynamics. I wrote an extended essay and undertook experiments on the effect of drag on the half-angle of a cone along with an integral calculus approach to pitstop strategies. I am presently learning AutoCAD 2021 along with courses on linear - Matrix algebra as well as courses on Statics, complex analysis and Linear Circuit analysis. My goal is to start learning Computational Fluid Dynamics soon.
+Why-join:  I have always challenged myself with the accumulation of technical knowledge concerning F1 and becoming an all-rounded racing engineer in the future. In fact, joining the UGRacing team gives me more excitement than my course itself. Being a research-driven student, I am enthralled to have a racing team wherein I can apply my engineering concepts and my ideas as well. I expect to become a stronger logical, critical and team player. I expect an FSUK 2021 win in the sprint and endurance categories!
+Helpful-application:  From best lap-times in my local track and the underlying passion that I have garnered for racing will keep me forever motivated in the UGR team. My expertise follows in communication skills; being the team leader of an interschool fest, an avid public speaker of my school annual days, along with a role of team captain of my school football team, as well as an individual athletics champion in my early years. I believe the roles I have undertaken better equip me to work in a team environment.
+Interview-times:  I currently reside in India, Bangalore, wherein (IST) is 4.5 hours ahead of Glasgow (BST).
+I am available for interviews (Mon-Sunday) between :
+1 pm to 5 pm (IST) / 8:30 am to 12:30 pm (BST)
+
+However, I can accommodate another specified time provided by the UGR team, should the above timings not work.
+Hear-about:  Through prior self-research before joining the University Of Glasgow.
+Applied-before:  No

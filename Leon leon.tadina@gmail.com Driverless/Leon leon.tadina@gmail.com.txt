@@ -1,0 +1,20 @@
+Form_id: 203
+Form_date: 14/09/2020 18:00
+Status: read
+Name: Leon
+Email: leon.tadina@gmail.com
+Phone-number: 7480330175
+Matriculation-number: 2394055T
+Degree-subject: computer science
+Degree-type: 3
+Study-year: Bachelors with masters
+GPA: nan
+Option-1:  Driverless
+Option-2: IT
+Experience:  No previous experienced altough have worked on camera systems for face recognition as side projects.
+
+Why-join:  I want to have fun whilst building something that I can see develop and become better over time. AI and driverless cars has always been a fascinating subject and now that I have a good grasp of programming languages I think it could be a great way to develop my skills in a specific subsection
+Helpful-application:  I am extremely excited to have the opportunity to apply for such a role and really think I would be a great addition to the team. 
+Interview-times:  Most afternoons and weekends
+Hear-about:  Mark Harris (member)
+Applied-before:  No

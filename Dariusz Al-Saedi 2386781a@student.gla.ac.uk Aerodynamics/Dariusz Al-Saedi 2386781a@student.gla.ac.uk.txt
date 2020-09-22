@@ -1,0 +1,19 @@
+Form_id: 291
+Form_date: 22/09/2020 12:03
+Status: unread
+Name: Dariusz Al-Saedi
+Email: 2386781a@student.gla.ac.uk
+Phone-number: 7368283258
+Matriculation-number: 2386781A
+Degree-subject: Aerospace Systems Engineering
+Degree-type: 2
+Study-year: BEng
+GPA: 13.33
+Option-1:  Aerodynamics
+Option-2: Aerodynamics
+Experience:  In my first year I designed, built and tested a balsa wood glider along with my team members as part of my engineering skills module. Our glider proved to be very successful and as a team we all played a key part in the design. I was responsible for the horizontal and vertical stabiliser design which was vital to ensuring the glider remained on course without veering and loosing control. 
+Why-join:  I have always had a great passion for cars and in particular formula racing and so this opportunity seemed perfect for me. Given the opportunity I think UGRacing would further advance my experience of aerodynamics and give me a better understanding of aerodynamic properties.   
+Helpful-application:  I have also had experience running my own business as part of a programme called orbit. This allowed me to be mentored by some of the UK’s most successful entrepreneurs such as Sir Tom Hunter and Jim McColl OBE. The reason this is so valuable to me is that not only did it give me experience in the business aspect but I also had to take on the role of a leader as I launched my own computing business. I believe that the skills gained from this programme can be applied to UGRacing.
+Interview-times:  Monday-Friday after 1pm
+Hear-about:  UofG instagram page
+Applied-before:  No

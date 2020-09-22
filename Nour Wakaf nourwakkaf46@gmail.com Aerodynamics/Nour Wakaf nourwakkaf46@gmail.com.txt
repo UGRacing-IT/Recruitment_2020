@@ -1,0 +1,19 @@
+Form_id: 273
+Form_date: 21/09/2020 17:49
+Status: unread
+Name: Nour Wakaf
+Email: nourwakkaf46@gmail.com
+Phone-number: 7397552812
+Matriculation-number: 2562584
+Degree-subject: Mechatronics
+Degree-type: 1
+Study-year: Undergraduate (BEng) 
+GPA: nan
+Option-1:  Aerodynamics
+Option-2: Vehicle Dynamics
+Experience:  Since I'm a first year student, I do lack a lot of experience with regards to this role in this project. My current experience is based on small arduino projects done outside of school and a few computer desktop applications made using Python. Unfortunately, I do not have much experience working with software such as CAD but I will be working on that in the near future (when I have the required equipment) as I know the team will be using it. I will prepare in advance as much as I possibly can. 
+Why-join:  This is a great opportunity for engineering students to use their skills and apply what they know. At this stage, I definitely do not have all the information needed and so it would be absolutely fantastic to be able to work with older, more experienced students and learn from them. I would love to have that insight into the actual practical engineering that happens behind the scenes. I would be happy with any sort of work or task assigned to me in the team. I'm ready to learn. 
+Helpful-application:  I'm very familiar with Motorsport as I have done a lot of karting so I know how stressful and complicated such a project can be. I'm indeed very interested in this project and I'm willing to put in the effort for the team. I understand that the experience and knowledge gained from this program is valuable. I want to take this opportunity and I would be very grateful if I get the a place in the team. I am prepared to learn along the journey. I have already tried to contact UGRacing via email
+Interview-times:  I'm available anytime, preferably in weekends as I would of course have to attend my lectures during the working week. I would appreciate if you let me know in advance.
+Hear-about:  Word of mouth
+Applied-before:  No

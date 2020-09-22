@@ -1,0 +1,19 @@
+Form_id: 247
+Form_date: 19/09/2020 18:06
+Status: unread
+Name: Tillman Sherwood
+Email: tillmansherwood@gmail.com
+Phone-number: +44 7935474988
+Matriculation-number: 2388925S
+Degree-subject: Mechanical Engineering
+Degree-type: 3
+Study-year: Masters
+GPA: 16.0
+Option-1:  Driverless
+Option-2: Unsprung Mass
+Experience:  In the past, I have learned the basics of C++ required to control an Arduino and used this to create a "clap-switch" circuit using relays. This summer, I studied python and created programs such as a sudoku solver using backtracking as well as a UK Energy Grid Dashboard using python libraries like astropy, numpy and pandas. I have spent time repairing bikes at Bike For Good. I am aware that my knowledge on the relevant subjects is very limited right now, but I am eager to learn!
+Why-join:  I have always wanted to join an engineering society to learn real life applications of my studies. Especially with the recent introduction of EV and Driverless, I believe that there is no engineering society as philanthropic and results-driven as UGR. I believe that I can offer a meaningful contribution while also learning and developing hard and soft skills that may benefit me my entire life, making me both a better engineer and a better critical thinker.
+Helpful-application:  Here's my github to see some of my summer projects: https://github.com/jtills
+Interview-times:  Most days of the week anytime after 2
+Hear-about:  friends and word of mouth
+Applied-before:  No

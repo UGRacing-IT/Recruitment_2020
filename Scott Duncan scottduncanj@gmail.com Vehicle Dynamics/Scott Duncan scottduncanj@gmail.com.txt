@@ -1,0 +1,19 @@
+Form_id: 190
+Form_date: 11/09/2020 16:41
+Status: unread
+Name: Scott Duncan
+Email: scottduncanj@gmail.com
+Phone-number: 7402386759
+Matriculation-number: 2611775
+Degree-subject: Mechanical Engineering
+Degree-type: 1
+Study-year: Masters
+GPA: nan
+Option-1:  Vehicle Dynamics
+Option-2: Unsprung Mass
+Experience:  I come from an environmental science background, with significant professional experience working within the civil engineering industry. This professional role has given me a wealth of experience working within a engineering team, liaising with numerous departments such as managers, procurement, labourers, HR and designers.  Educational and professional experience provide me with both technical and practical engineering knowledge. My hobbies and interests involve anything with an engine!
+Why-join:  My passion for motorsport engineering and technological excellence is the reason I am returning to education and wish to join UGR. I frequently attend motorsport events, participate in track days and regularly conduct maintenance on my motocross bike, which has given me the fundamental knowledge of mechanics and technical race engineering. The UGR experience will further develop my skills and provide the opportunity to gain invaluable experience within the career path I desire and aspire too. 
+Helpful-application:  I am currently in talks with numerous motorsport teams, such as EXCELR8 team principal Justina Williams competing in the BTCC, and personnel in the Scottish Motor Racing Club (SMRC) regarding experience and opportunities. I hope that with these connections, they can contribute the development and support of the UGR team from all aspects!
+Interview-times:  10/10/2020
+Hear-about:  Linkedin
+Applied-before:  No

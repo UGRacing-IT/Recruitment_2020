@@ -1,0 +1,22 @@
+Form_id: 175
+Form_date: 08/09/2020 19:41
+Status: read
+Name: Enrico Trombetta
+Email: 2396702t@student.gla.ac.uk
+Phone-number: 4.41E+12
+Matriculation-number: 2396702t
+Degree-subject: Computer Science
+Degree-type: 4
+Study-year: MSc
+GPA: 18.0
+Option-1:  Driverless
+Option-2: IT
+Experience:  I have past experience with robotics, having worked with a Leap Motion sensor to remotely control a robotic arm when I was 17 years old.
+My recent job got me practised with ML/DL(mainly NLP transformers for NLP/IR). I learnt to use pytorch at work when we devised ways to use traditional NLP models in computer vision and audio scenarios.
+In the end, I have experience with Computer Graphics and co-wrote a lua-scripted, ECS-style game engine in C++.
+Why-join:  Firstly, I like UGRacing and I know a number of peers of mine have joined in the past and made quite some contributions and I would like to not waste their work.
+It would also be a good idea to finetune my Computer Vision skills as it may yield useful ideas for my 4th year project dissertation and brush up my system programming skills. 
+Helpful-application:  The CV says I am a BSc student. That is because I was planning to switch from a MSci to a BSc degree.
+Interview-times:  Anytime, except for 11th and 21st of September.
+Hear-about:  Friends and my flatmate
+Applied-before:  No

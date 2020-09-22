@@ -1,0 +1,21 @@
+Form_id: 208
+Form_date: 15/09/2020 19:55
+Status: read
+Name: Robbert Sinclair
+Email: 2432710S@student.gla.ac.uk
+Phone-number: 7403637978
+Matriculation-number: 2432710S
+Degree-subject: Computer Science
+Degree-type: 2
+Study-year: BSc (Hons)
+GPA: nan
+Option-1:  Driverless
+Option-2: IT
+Experience:  My current experiance from software development is Python knowledge from studying CS1P in my first year in Glasgow. Since then I have used the free time that I had in the COVID 19 Pandemic to look at the many things that I can do with Python. In terms of C++, I have done some of it a few years ago but I have limited experience in it.  I do however have some experience in C through my  secondary school. I am also studying Maths as my other subject.
+Why-join:  I want to join UGRacing because I want to use my coding skills to solve a real life problem. I really enjoy coding and I want to learn how to implement Machine Learning and AI. I also want to gain experience in working on a computer project in a team as my all of my previous projects have been individual projects. I want to further enrich my skills in coding and maths to get an idea of where I would want to go in a future career.  
+Helpful-application:  nan
+Interview-times:  Tuesdays from 12:00
+Thursdays from 12:00
+Fridays from 14:00
+Hear-about:  Word of Mouth
+Applied-before:  Yes

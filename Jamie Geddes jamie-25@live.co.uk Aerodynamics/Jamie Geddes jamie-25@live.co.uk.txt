@@ -1,0 +1,19 @@
+Form_id: 207
+Form_date: 15/09/2020 12:23
+Status: read
+Name: Jamie Geddes
+Email: jamie-25@live.co.uk
+Phone-number: 7899603702
+Matriculation-number: 2331395G
+Degree-subject: Aeronautical Engineering
+Degree-type: 4
+Study-year: MEng
+GPA: 18.0
+Option-1:  Aerodynamics
+Option-2: Vehicle Dynamics
+Experience:  I have completed several aerodynamics and fluid mechanics courses. I have chosen industrial aerodynamics for 4th year and am also enrolled in high speed aerodynamics and computational fluid dynamics. I had a work experience placement at Spirit AeroSystems, where I worked with composite materials and used CAD software to analyse designs for errors. I also have experience using other design software, such as javafoil which I used to predict lift of an aerofoil for a 3rd year design project.
+Why-join:  I would like to join UGRacing because I am really interested in aerodynamic design, especially in formula 1. This interest has led to me pursuing an aeronautical engineering degree and the opportunity to join UGRacing would go a long way to help me secure a future in automotive design. I also believe that working as part of the team would give me great insight to the entire design process behind the car which is an exciting prospect.
+Helpful-application:  One of my main interests in the aerodynamic designs of cars is ground effect, through the use of Venturi tunnels and diffusers. I'm very keen to learn about the different processes involved in the process of designing and building the car and would be willing to spend long hours working on the design as I find aerodynamics extremely interesting.
+Interview-times:  Anytime except Saturdays.
+Hear-about:  Posters around campus.
+Applied-before:  No

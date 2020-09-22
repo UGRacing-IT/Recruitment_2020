@@ -1,0 +1,19 @@
+Form_id: 236
+Form_date: 18/09/2020 16:43
+Status: unread
+Name: William Traynor
+Email: 2381137T@student.gla.ac.uk
+Phone-number: 7508119378
+Matriculation-number: 2381137T
+Degree-subject: Computer Science and Mathematics
+Degree-type: 3
+Study-year: BSc
+GPA: 18.0
+Option-1:  Driverless
+Option-2: HR & Logistics
+Experience:  The experience I have is only really from my studies at University. However, I have played football for my whole life and captained my team for the past few seasons so I very much enjoy working in a team environment with a common goal and am always out to win.
+Why-join:  I really enjoy racing and am a fan of F1. I have always loved the idea of working on an F1 team and think it would be a very interesting and fun job. I think that this experience would be fantastic as I would learn lots of new skills and improve massively on my existing skills. I feel like I could learn so much and be a very good member of the team.
+Helpful-application:  I am a very fast learner and dedicated to doing things I enjoy. I am a good problem solver and have good communication skills and know how to work under stressful situations.
+Interview-times:  Anytime.
+Hear-about:  Email to my student address
+Applied-before:  No

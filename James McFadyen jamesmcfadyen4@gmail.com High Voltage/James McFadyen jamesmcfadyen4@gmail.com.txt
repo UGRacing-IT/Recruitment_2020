@@ -1,0 +1,20 @@
+Form_id: 240
+Form_date: 18/09/2020 19:26
+Status: unread
+Name: James McFadyen
+Email: jamesmcfadyen4@gmail.com
+Phone-number: 7848477395
+Matriculation-number: 2575115M
+Degree-subject: Mechatronics
+Degree-type: 3
+Study-year: BEng
+GPA: nan
+Option-1:  High Voltage
+Option-2: Low Voltage
+Experience:  I'm a keen electronics hobbyist having built racing drones from scratch and various other electronics projects . I've custom ordered a PCB design for my Arduino ' Punch force Meter' to make it more compact and professional.  I've knowledge of programming in C♯, PHP, Arduino and Java.  My drones use power electronics, brushless motors, ESCs and flight controllers so my experience and knowledge is directly relevant to working on high and low voltage components.
+
+Why-join:  I would love to have the opportunity to work alongside others in a team and work on an engineering project in a structured environment.  I have only done relatively small projects so working on a racing car with such powerful electronic components would be an amazing opportunity for me to develop my engineering skills and also my teamwork skills. I have never had a lot of money to spend on my projects so I would love to be able to work with more costly components.
+Helpful-application:  I am a highly technically minded person and would really appreciate the opportunity to work with like-minded engineers. I am passionate about power systems and electric vehicles in general which is why I chose to study for a degree in Mechatronics.  I have extensive knowledge of brushless motors and batteries which I hope may be of use to the team in creating the University racing car. 
+Interview-times:  Any time except from 7th and 12th October.
+Hear-about:  Online
+Applied-before:  No

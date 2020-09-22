@@ -1,0 +1,19 @@
+Form_id: 198
+Form_date: 13/09/2020 20:52
+Status: read
+Name: Cameron Davidson
+Email: cameron-davidson@hotmail.co.uk
+Phone-number: 7570319006
+Matriculation-number: 2542938
+Degree-subject: Aeronautical Engineering
+Degree-type: 1
+Study-year: Masters of Engineering 
+GPA: nan
+Option-1:  Aerodynamics
+Option-2: Vehicle Dynamics
+Experience:  No experience gained to date.
+Why-join:  I wish to participate in this project because i have always had a great passion and drive to work on a project such as this. I genuinely enjoy getting hands on with a project as it gives me a sense of accomplishment once the given project or challenge has been completed. Coming away from UGRacing, i wish to have a real world perspective and understanding of how the world of Science and Engineering works, and to get a sense of what it will be like to use my engineering skills later in my career.
+Helpful-application:  nan
+Interview-times:  Anytime
+Hear-about:  University Open Day
+Applied-before:  No

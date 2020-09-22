@@ -1,0 +1,20 @@
+Form_id: 214
+Form_date: 16/09/2020 16:17
+Status: unread
+Name: Lewis Dillon
+Email: Lewis.dillon@me.com
+Phone-number: 7531019929
+Matriculation-number: 2551609
+Degree-subject: Aeronautical engineering
+Degree-type: 1
+Study-year: BEng
+GPA: nan
+Option-1:  Aerodynamics
+Option-2: Chassis
+Experience:  I ran a green power race team during my time in sixth form. With a few other team members, I designed a chassis using a limited budget and resources. I also wrote a paper on the weight distribution of cars for a physics assignment. From this I learnt about the different affects of centre of gravity, wheel axel distance and weight difference between the two wheel bases.   
+Why-join:  I want to join UGRacing because it will be a good learning opportunity for what its like in a proper race team. I am hoping to be able to work my way towards being an aerodynamicist for a Formula One race team, and joining will be the perfect first step to doing so. 
+The experience will hopefully give me a better idea of what I am already learning on my course but based around cars. Other than academically, management skills will be a big area I will be looking to learn more on. 
+Helpful-application:  I have been heavily into Formula One for around 10 years. As a result, I know the basic terminology and concepts, that are used in the sport, fairly well. 
+Interview-times:  Most days from 13:00 onwards. However, it varies each week. Tuesdays are the only day I can't do. 
+Hear-about:  Web search
+Applied-before:  No

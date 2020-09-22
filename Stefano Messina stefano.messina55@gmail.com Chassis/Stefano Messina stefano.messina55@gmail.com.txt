@@ -1,0 +1,19 @@
+Form_id: 185
+Form_date: 10/09/2020 16:14
+Status: unread
+Name: Stefano Messina
+Email: stefano.messina55@gmail.com
+Phone-number: 7985185097
+Matriculation-number: 2477336M
+Degree-subject: Mechanical Engineering with Aeronautics
+Degree-type: 3
+Study-year: Bachelor
+GPA: 21.83
+Option-1:  Chassis
+Option-2: Vehicle Dynamics
+Experience:  Unfortunately, I do not have any experience strictly relevant to the roles for which I am applying. However, I have experience using CAD and MATLAB for university projects and in work done for JetX that would surely be useful in accelerating my integration in the team. Also, I have independently approached CFD and Star-CCM+. I am ready to learn everything about the way the Chassis/Vehicle Dynamics team operate when designing a new racecar and how they optimise the design for manufacturing.
+Why-join:  I would like to join UGRacing because in my opinion it is the most stimulating society available to engineering students. I am a car enthusiast and a Formula 1 follower who wants to learn more about the design and manufacturing processes of these amazing machines. Therefore, I expect to acquire additional confidence and experience in using CAD and simulation softwares alongside hands-on experience in order to obtain a good preparation for future employment in industry. 
+Helpful-application:  I am a very committed and organised person who can listen to more experienced members and have a positive impact to the completion of a task. I believe that UGRacing is ideal to apply the theory studied in university courses to a real world project in a challenging way, and this is what really makes me enthusiastic about the team. In general, joining the team would be very valuable to me as I consider this an opportunity to improve myself both professionally and as a person.
+Interview-times:  Anytime after 3pm for all days except Tuesday.
+Hear-about:  Freshers Week
+Applied-before:  Yes

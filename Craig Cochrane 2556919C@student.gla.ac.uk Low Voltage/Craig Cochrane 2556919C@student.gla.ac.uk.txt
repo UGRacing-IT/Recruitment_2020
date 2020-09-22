@@ -1,0 +1,25 @@
+Form_id: 179
+Form_date: 09/09/2020 23:00
+Status: unread
+Name: Craig Cochrane
+Email: 2556919C@student.gla.ac.uk
+Phone-number: 7926080901
+Matriculation-number: 2556919C
+Degree-subject: Electronics and Electrical Engineering
+Degree-type: 1
+Study-year: MEng
+GPA: nan
+Option-1:  Low Voltage
+Option-2: High Voltage
+Experience:  While I am only starting first year and thus don’t have as much technical experience as other applicants, I do have some experience with working with electronics as a hobby. 
+I have been playing about with analogue electronics and enjoy trying to design circuits such as oscillators, sensor circuits, and a boost converter. While I’m not always successful, small projects like these give me experience in circuit design, breadboard prototyping, soldering and simple schematic drawing.
+Why-join:  I have wanted to join UGRacing since I first saw the team. It will be interesting to work on the team’s first EV design, which is a very exciting project.
+Joining a team like this will also be a good opportunity to meet a lot of new people from different years which will greatly enhance my university experience. It will also enable me to learn from more experienced students who have been part of the team before. This will give me valuable experience for future engineering job applications.
+
+Helpful-application:  I am aware that as a first year I have a fairly low chance of being accepted to the team. However, while I may lack some of the technical skills others from other years have, I believe I make up for that by being quick and willing to learn. I am excited and passionate about engineering and would love to join and make meaningful contributions to UGRacing during my time at university.
+Interview-times:  Tuesdays 13:00-17:00
+Wednesdays from 14:00
+Thursdays from 14:00
+Fridays from 14:00
+Hear-about:  Open day
+Applied-before:  No

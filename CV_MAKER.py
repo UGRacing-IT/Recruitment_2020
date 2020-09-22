@@ -144,7 +144,7 @@ for index, row in data.iterrows():
     #and so the folder already exsists 
     #and the most recent submission is
     #the one that it takes
-    new_dir=str(row[3]) + " "+str(row[4])
+    new_dir=str(row[3]) + " "+str(row[4]+" "+str(row[11]))
     dir_path = "{0:s}/{1:s}".format(path, new_dir)
     try:
         os.mkdir(dir_path)
@@ -156,5 +156,12 @@ for index, row in data.iterrows():
     word_doc_creator(row)
     download_url=str(row[19])
     #downloads the uploaded csv
-    urlretrieve(download_url, dir_path+'/'+str(row[3])+'.pdf')
+    print(row[3])
+    try:
+        #This wont work on eduroam HTTP Error 403
+        urlretrieve(download_url, dir_path+'/'+str(row[3])+'.pdf')
+    except:
+        #'deals' with unicode error
+        print('Error downloading: ',download_url)
+        pass
 

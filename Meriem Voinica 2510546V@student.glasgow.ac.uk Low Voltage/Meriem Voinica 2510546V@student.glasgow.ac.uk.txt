@@ -1,0 +1,19 @@
+Form_id: 225
+Form_date: 17/09/2020 16:28
+Status: unread
+Name: Meriem Voinica
+Email: 2510546V@student.glasgow.ac.uk
+Phone-number: 7436601689
+Matriculation-number: 2510546
+Degree-subject: Electronics and Electrical Engineering
+Degree-type: 1
+Study-year: MEng
+GPA: nan
+Option-1:  Low Voltage
+Option-2: High Voltage
+Experience:  I have participated in the national CanSat competition (in Romania), which involved designing, building, and testing a device that measured environmental parameters using sensors and an Arduino board. The device had to be compact (the size of a 330ml soda can) and be sturdy enough to survive being launched from an 1km altitude. I have some experience soldering, wiring, using CAD software, and 3D printing. 
+Why-join:  I think that UGRacing would be an opportunity for me to apply electronics to a practical, real life scenario and it would place me in a community from which I have many things to learn. I believe that a competition like this has the perfect amounts of fun and stress in order to be a great learning opportunity. I expect to get my hands dirty and to do some intensive research in order to make a functioning vehicle. 
+Helpful-application:  Although I am just a first year, I am a fast learner!
+Interview-times:  Anytime after the 20th of September. On the weekends I am available after 12:30pm, while on weekdays my courses usually end at 13:00.
+Hear-about:  University email communications
+Applied-before:  No

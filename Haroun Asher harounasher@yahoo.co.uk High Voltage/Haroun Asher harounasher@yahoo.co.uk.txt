@@ -1,0 +1,19 @@
+Form_id: 180
+Form_date: 09/09/2020 23:50
+Status: read
+Name: Haroun Asher
+Email: harounasher@yahoo.co.uk
+Phone-number: 7411881244
+Matriculation-number: 2459396A
+Degree-subject: Engineering
+Degree-type: 2
+Study-year: Electrical and Electronic
+GPA: 19.25
+Option-1:  High Voltage
+Option-2: Low Voltage
+Experience:  In my past year studying engineering I have learned a lot. Whether it was learning theory like op-amps, nodal analysis, filters and digital/analogue converters or practical lab work where critical thinking and thinking outside the box were crucial. I also do extra curricular research like how induction motors and DC motors operate as this is very interesting to me. 
+Why-join:  I have always loved F1 but my love for the sport enhanced when I watched netflix's show F1 Drive to Survive. This really portrayed to me the dedication, passion and teamwork that goes into making each individual car and I would love to be apart of something like this. During my time at UGR I would definititely learn a lot which would be incredibly useful to my career goal of working in the Automotive industry. 
+Helpful-application:  This summer I was the sole employee in packing and dispatch at a health clinic distributing covid kits. Being an employee in a new department meant I had to organise new procedures to make the department as efficient as possible. I developed a lot of my interpersonal skills including teamwork, being decisive and finding solutions which will definitely be useful at UGR.
+Interview-times:  Anytime after 20/09/20
+Hear-about:  I found this society on Facebook
+Applied-before:  No
