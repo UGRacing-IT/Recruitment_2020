@@ -9,7 +9,6 @@ from docx import Document
 from docx.shared import Inches
 
 
-
 #Gets the working directory 
 path = os.getcwd()
 
@@ -105,9 +104,9 @@ def txt_doc_creator(row):
     f.write("\n")
     f.write(("Degree-subject: "+str(row[7])))
     f.write("\n")
-    f.write(("Degree-type: "+str(row[8])))
+    f.write(("Study-year: "+str(row[8])))
     f.write("\n")
-    f.write(("Study-year: "+str(row[9])))
+    f.write(("Degree-type: "+str(row[9])))
     f.write("\n")
     f.write(("GPA: "+str(row[10])))
     f.write("\n")
@@ -121,11 +120,9 @@ def txt_doc_creator(row):
     f.write("\n")
     f.write(("Helpful-application:  "+str(row[15])))
     f.write("\n")
-    f.write(("Interview-times:  "+str(row[16])))
+    f.write(("Hear-about:  "+str(row[16])))
     f.write("\n")
-    f.write(("Hear-about:  "+str(row[17])))
-    f.write("\n")
-    f.write(("Applied-before:  "+str(row[18])))  
+    f.write(("Applied-before:  "+str(row[17])))  
     f.close()
     
     #Moves the txt file to the relevant folder
@@ -154,7 +151,7 @@ for index, row in data.iterrows():
 
     txt_doc_creator(row)
     word_doc_creator(row)
-    download_url=str(row[19])
+    download_url=str(row[18])
     #downloads the uploaded csv
     print(row[3])
     try:
