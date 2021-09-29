@@ -4,9 +4,11 @@ import fnmatch
 import numpy as np
 import pandas as pd
 import string
-from urllib.request import urlretrieve
+#from urllib.request import urlretrieve
 from docx import Document
 from docx.shared import Inches
+import requests
+from pathlib import Path
 
 
 #Gets the working directory 
@@ -151,14 +153,21 @@ for index, row in data.iterrows():
 
     txt_doc_creator(row)
     word_doc_creator(row)
-    download_url=str(row[18])
+    download_url=str(row['Cv'])
     #downloads the uploaded csv
     print(row[3])
     try:
         #This wont work on eduroam HTTP Error 403
-        urlretrieve(download_url, dir_path+'/'+str(row[3])+'.pdf')
+
+
+        filename = Path(dir_path+'/'+str(row[3])+'.pdf')
+        #download_url = 'http://www.hrecos.org//images/Data/forweb/HRTVBSH.Metadata.pdf'
+        response = requests.get(download_url)
+        filename.write_bytes(response.content)
+
+        #urlretrieve(download_url, dir_path+'/'+str(row[4])+'.pdf')
     except:
         #'deals' with unicode error
         print('Error downloading: ',download_url)
-        pass
+    #    pass
 
